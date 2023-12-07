@@ -6,5 +6,25 @@ public class JaeGyun {
 	int b = 20;
 	
 	int c = a + b;
+	
+	String str = "";
+
+	public void test1() {
+		
+		str = "";
+		
+		str = "null";
+		
+		a = 20;
+		
+		int a = 20;
+		
+	}
+	
+	public void test2() {
+		
+		String str = "";
+		
+	}
 
 }
